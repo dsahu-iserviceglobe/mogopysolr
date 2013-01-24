@@ -16,7 +16,7 @@ setup(
         'Programming Language :: Python',
         'Topic :: Internet :: WWW/HTTP :: Indexing/Search'
     ],
-    url = 'http://github.com/toastdriven/pysolr/',
+    url = 'https://github.com/dsahu-iserviceglobe/mogopysolr.git',
     extra_requires={
         'tomcat': ['BeautifulSoup'],
     }
